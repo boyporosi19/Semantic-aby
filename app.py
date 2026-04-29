@@ -266,7 +266,7 @@ with col3:
 
 # ─── Source Cards ────────────────────────────────────────────
 if not st.session_state.scraped_data:
-    st.info("👆 Klik **'Scraping Semua Sumber'** atau pilih salah satu sumber di atas untuk memulai ekstraksi!")
+    st.info("Klik 'Scraping Semua Sumber' atau pilih salah satu sumber di atas untuk memulai scraping")
 
 for key, source in SOURCES.items():
     data = st.session_state.scraped_data.get(key, [])
