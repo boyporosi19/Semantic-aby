@@ -349,4 +349,4 @@ if st.session_state.scraped_data:
 
 
 # ─── Footer ──────────────────────────────────────────────────
-st.markdown('<div class="footer">Scraping Web Semantic — Tugas Mata Kuliah Web Semantic<br>Menggunakan Python, BeautifulSoup, RDFLib, Schema.org, dan Streamlit</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Scraping Web Semantic <br> Muh.Albyansyah Qaishar Porosi <br> E1E124071 /div>', unsafe_allow_html=True)
