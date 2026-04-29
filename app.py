@@ -218,7 +218,7 @@ def do_scrape_all():
 st.markdown("""
 <div class="hero-container">
     <h1>Scraping Web Semantic</h1>
-    <p>Scraping Dalam 5 Website Yang Berbeda dengan Konversi ke Format Web Semantik (JSON-LD & RDF)</p>
+    <p>Scraping Dalam 5 Website Yang Berbeda</p>
 </div>
 """, unsafe_allow_html=True)
 
