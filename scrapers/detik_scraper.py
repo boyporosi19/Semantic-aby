@@ -1,8 +1,3 @@
-"""
-Scraper untuk detik.com
-Mengambil data berita terkini: judul, ringkasan, URL, kategori, dan tanggal.
-"""
-
 import requests
 from bs4 import BeautifulSoup
 

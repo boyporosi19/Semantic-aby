@@ -1,8 +1,3 @@
-"""
-Scraper untuk CNN.com
-Mengambil data berita terkini: judul, ringkasan, URL, dan kategori.
-"""
-
 import requests
 from bs4 import BeautifulSoup
 

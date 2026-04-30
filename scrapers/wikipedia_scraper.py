@@ -1,9 +1,3 @@
-"""
-Scraper untuk wikipedia.org
-Mengambil data artikel: judul, ringkasan, URL, dan kategori.
-Menggunakan Wikipedia API.
-"""
-
 import requests
 
 
