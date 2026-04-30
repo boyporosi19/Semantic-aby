@@ -1,9 +1,3 @@
-"""
-Semantic Web Converter
-Mengkonversi data hasil scraping ke format RDF (Turtle) dan JSON-LD
-menggunakan vocabulary Schema.org.
-"""
-
 import json
 from rdflib import Graph, Literal, Namespace, URIRef, BNode
 from rdflib.namespace import RDF, XSD, RDFS
